@@ -1,2 +1,0 @@
-# FitnessTracker
-NoSQL
